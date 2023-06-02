@@ -1,1 +1,8 @@
-header {background-color: rgb(149, 99, 197);color: rgb(35, 35, 196);}
+*{margin: 0;padding: 0;}
+.cabeçalho {background-color: rgb(180, 119, 236); color: rgb(0, 0, 0);display: flex;justify-content: space-around;padding: 24px 0;}
+.cabeçalho-imagem { width: 20%;}
+.cabeçalho-item-lista{display: inline-block; margin: 0 16px;padding: 24px 0; font-size: 24px;}
+.escola { background-image: linear-gradient(#b886e0,#5accf1); display: flex; }
+.escola-conteudo {width:35%}
+.escola {...display center;justify-content:center;align-itens:center;}
+.escola-imagem{width:35%}
